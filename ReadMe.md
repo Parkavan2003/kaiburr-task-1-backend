@@ -38,8 +38,8 @@ This project implements a Java Spring Boot REST API to manage and execute "Task"
 ### 2️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Parkavan2003/kaiburr-task-backend.git
-cd kaiburr-task-backend
+git clone https://github.com/Parkavan2003/kaiburr-task-1-backend.git
+cd kaiburr-task-1-backend
 ```
 
 ### 3️⃣ Configure MongoDB
